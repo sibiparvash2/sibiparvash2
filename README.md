@@ -33,9 +33,8 @@
     </td>
     <td width="35%" align="center" valign="center">
       <!-- Animated Tech Graphic -->
+      <!-- Animated Tech Graphic -->
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="100" />
-      <br><br>
-      <img src="https://github-profile-trophy.vercel.app/?username=sibiparvash2&theme=tokyonight&row=1&column=3&margin-w=15&no-frame=true&no-bg=true" alt="Trophies" />
     </td>
   </tr>
 </table>
